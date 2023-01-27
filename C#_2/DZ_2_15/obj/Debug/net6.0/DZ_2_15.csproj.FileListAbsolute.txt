@@ -1,0 +1,15 @@
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/DZ_2_15.csproj.AssemblyReference.cache
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/DZ_2_15.GeneratedMSBuildEditorConfig.editorconfig
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/DZ_2_15.AssemblyInfoInputs.cache
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/DZ_2_15.AssemblyInfo.cs
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/DZ_2_15.csproj.CoreCompileInputs.cache
+/home/test/repo1222/C#_2/DZ_2_15/bin/Debug/net6.0/DZ_2_15
+/home/test/repo1222/C#_2/DZ_2_15/bin/Debug/net6.0/DZ_2_15.deps.json
+/home/test/repo1222/C#_2/DZ_2_15/bin/Debug/net6.0/DZ_2_15.runtimeconfig.json
+/home/test/repo1222/C#_2/DZ_2_15/bin/Debug/net6.0/DZ_2_15.dll
+/home/test/repo1222/C#_2/DZ_2_15/bin/Debug/net6.0/DZ_2_15.pdb
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/DZ_2_15.dll
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/refint/DZ_2_15.dll
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/DZ_2_15.pdb
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/DZ_2_15.genruntimeconfig.cache
+/home/test/repo1222/C#_2/DZ_2_15/obj/Debug/net6.0/ref/DZ_2_15.dll
